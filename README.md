@@ -1,4 +1,4 @@
-````markdown
+
 # Multi-Modal Sensor Fusion Architecture (CARLA)
 
 A real-time autonomous driving perception system implementing **multi-modal sensor fusion**, **object tracking**, and **tracking performance evaluation** inside the **CARLA Autonomous Driving Simulator**. The project integrates RGB Camera, LiDAR, and Radar data using an object-level late fusion architecture with an Extended Kalman Filter (EKF) for robust multi-object tracking.
